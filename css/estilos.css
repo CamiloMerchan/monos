@@ -1,0 +1,26 @@
+Body{
+	background-color: black;
+	
+}
+h1{ color: white;
+	font-family: 'Indie Flower', cursive;
+	font-size: 70px;
+	text-align: center;
+}
+h2{ color: green;
+	font-family: 'Pacifico', cursive;
+	font-size: 70px;
+	text-align: center
+}
+@font-face{
+	font-family: "Alex";
+	src: url('../fonts/Alex.ttf');
+}
+.al{
+	color: white;
+	font-size: 50px;
+}
+.a2{font-family: 'Pacifico', cursive;
+	color: cyan;
+	font-size: 50px;
+}
